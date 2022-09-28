@@ -1,0 +1,8 @@
+setup.py
+src/imitation-fuzzing/__init__.py
+src/imitation_fuzzing.egg-info/PKG-INFO
+src/imitation_fuzzing.egg-info/SOURCES.txt
+src/imitation_fuzzing.egg-info/dependency_links.txt
+src/imitation_fuzzing.egg-info/not-zip-safe
+src/imitation_fuzzing.egg-info/requires.txt
+src/imitation_fuzzing.egg-info/top_level.txt
